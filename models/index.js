@@ -1,4 +1,4 @@
 module.exports = {
-    Transaction: require("./api"),
+    Transaction: require("./transaction"),
   
   };
