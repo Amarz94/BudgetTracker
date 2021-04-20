@@ -1,5 +1,10 @@
 # BudgetTracker
 
+## Deployed Link
+
+[BudgeTracker](https://amarz94.github.io/BudgetTracker/)
+
+## Demo
 
 ![Alt Text](/portdemo.gif)
 
